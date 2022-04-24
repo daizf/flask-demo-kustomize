@@ -40,7 +40,12 @@ jobs:
           cd secret/
           kustomize edit set image ${{ github.event.inputs.image }}:${{ github.event.inputs.sha-tag }}
           rm -f kustomize
+          pwd
+          ls -l
           cd ..
+          echo "cd .."
+          pwd
+          ls -l
       
       - name: Git Commit/Push Changes
         uses: actions-x/commit@v2
