@@ -7,4 +7,4 @@ resources:
 - secret.yaml
 images:
 - name: daizf/flask-demo
-  newTag: 2dcce25c2b5047a8beef2e6b2a2e9896d50c27a1
+  newTag: 24d454f9197b7da56614231428a3d7c19c021c23
