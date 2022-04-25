@@ -9,4 +9,4 @@ images:
 - name: 364950776/flask-demo
   newTag: 4e3c18c73f15a59d7ad924682949ca3143025ab7
 - name: daizf/flask-demo
-  newTag: 6e4f6899644178eeed6a2274b215fa133e4ca8c7
+  newTag: 17a509dbe04d36750c529f26b8f9e47deaf5846a
